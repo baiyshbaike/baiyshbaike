@@ -6,12 +6,12 @@
 
 ### 📱 Tech Stack:
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-%232671E5.svg?style=for-the-badge&logo=MySQL&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-005571?style=for-the-badge&logo=postman)
   ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
   ![GitLab](https://img.shields.io/badge/gitlab-FF6600.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### 📊 Statistics:
