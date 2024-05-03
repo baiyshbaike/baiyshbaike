@@ -5,6 +5,7 @@
 ![Gmail](https://img.shields.io/badge/gmail:-%23316192.svg?style=for-the-badge&logo=gmail&logoColor=white) ![sharshenov.jr@gmail.com](https://img.shields.io/badge/baiyshbeksamatov@gmail.com-%23316192.svg?style=for-the-badge&logo=gmail&logoColor=white)
 
 ### 📱 Tech Stack:
+  <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-%232671E5.svg?style=for-the-badge&logo=MySQL&logoColor=white)
